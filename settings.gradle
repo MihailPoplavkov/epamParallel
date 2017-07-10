@@ -1,0 +1,3 @@
+rootProject.name = 'epamParallel'
+
+include 'lesson17_07_05'
